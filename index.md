@@ -16,7 +16,7 @@
 > ![unholy](https://user-images.githubusercontent.com/6531393/124419090-b6716780-dd11-11eb-8104-3dc6ef8854b8.png) Unholy:: <span style="color: orange">Medium</span>
 > 
 > ### Demon Hunter
-> Vengeance: : <span style="color: orange">Medium</span>
+> ![veng](https://user-images.githubusercontent.com/6531393/124419947-65627300-dd13-11eb-9ae0-5cf387c70cbb.png) Vengeance: : <span style="color: orange">Medium</span>
 > 
 > ### Druid
 > ![balance](https://user-images.githubusercontent.com/6531393/124419149-d56ff980-dd11-11eb-8318-22798f2cd40d.png) Balance: : <span style="color: green">Low</span>
