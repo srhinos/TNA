@@ -11,4 +11,5 @@ title: <T N A>
 
 ![warcraftlogs](https://user-images.githubusercontent.com/6531393/124417760-b885f700-dd0e-11eb-9415-547ea5f4dc85.png) [WarcraftLogs](https://www.warcraftlogs.com/guild/id/582297)
 
-<script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
+<script src="http://code.jquery.com/jquery-1.4.2.min.js"></script>
+<script> var x = document.getElementsByClassName("footer"); setTimeout(() => { x[0].remove(); }, 10); </script>
