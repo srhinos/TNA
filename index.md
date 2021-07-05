@@ -49,10 +49,16 @@
 > 
 > ![destruction](https://user-images.githubusercontent.com/6531393/124419443-56c78c00-dd12-11eb-90b7-fea78ef30780.png) Destruction: <span style="color: red">High</span>
 
+<style type="text/css">
+  blockquote {
+    border-left: 3px solid #DBDBDB;
+  }
+</style>
 
 <script src="http://code.jquery.com/jquery-1.4.2.min.js"></script>
-<!-- <script> var x = document.getElementsByClassName("footer"); setTimeout(() => { x[0].remove(); }, 10); </script> -->
-<script> var x = document.getElementById("header"); setTimeout(() => { x.remove(); }, 50); </script>
-<script> var x = document.getElementsByClassName("credits left"); setTimeout(() => { x[0].remove(); }, 50); </script>
-<script> var x = document.getElementsByClassName("credits right"); setTimeout(() => { x[0].remove(); }, 50); </script>
 
+<script> var x = document.getElementById("header"); setTimeout(() => { x.remove(); }, 100); </script>
+
+<script> var x = document.getElementsByClassName("credits left"); setTimeout(() => { x[0].remove(); }, 100); </script>
+
+<script> var x = document.getElementsByClassName("credits right"); setTimeout(() => { x[0].remove(); }, 100); </script>
