@@ -53,6 +53,9 @@
   blockquote {
     border-left: 3px solid #DBDBDB;
   }
+  section{
+      margin-top: 0px;
+  }
 </style>
 
 <script src="http://code.jquery.com/jquery-1.4.2.min.js"></script>
