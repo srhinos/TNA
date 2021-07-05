@@ -11,42 +11,42 @@
 
 ## Our Current Recruitment Needs
 > ### <span style="color: #C41E3A">Death Knight</span>
-> ![frost](https://user-images.githubusercontent.com/6531393/124419082-b2454a00-dd11-11eb-8f35-da276367f23c.png) Frost: : <span style="color: orange">Medium</span>
+> ![frost](https://user-images.githubusercontent.com/6531393/124419082-b2454a00-dd11-11eb-8f35-da276367f23c.png) Frost: <span style="color: orange">Medium</span>
 > 
-> ![unholy](https://user-images.githubusercontent.com/6531393/124419090-b6716780-dd11-11eb-8104-3dc6ef8854b8.png) Unholy:: <span style="color: orange">Medium</span>
+> ![unholy](https://user-images.githubusercontent.com/6531393/124419090-b6716780-dd11-11eb-8104-3dc6ef8854b8.png) Unholy: <span style="color: orange">Medium</span>
 > 
 > ### <span style="color: #A330C9">Demon Hunter</span>
-> ![veng](https://user-images.githubusercontent.com/6531393/124419947-65627300-dd13-11eb-9ae0-5cf387c70cbb.png) Vengeance: : <span style="color: orange">Medium</span>
+> ![veng](https://user-images.githubusercontent.com/6531393/124419947-65627300-dd13-11eb-9ae0-5cf387c70cbb.png) Vengeance: <span style="color: orange">Medium</span>
 > 
 > ### <span style="color: #FF7C0A">Druid</span>
-> ![balance](https://user-images.githubusercontent.com/6531393/124419149-d56ff980-dd11-11eb-8318-22798f2cd40d.png) Balance: : <span style="color: green">Low</span>
+> ![balance](https://user-images.githubusercontent.com/6531393/124419149-d56ff980-dd11-11eb-8318-22798f2cd40d.png) Balance: <span style="color: green">Low</span>
 > 
-> ![feral](https://user-images.githubusercontent.com/6531393/124419156-d9038080-dd11-11eb-8c14-4ed453078d65.png) Feral: : <span style="color: orange">Medium</span>
+> ![feral](https://user-images.githubusercontent.com/6531393/124419156-d9038080-dd11-11eb-8c14-4ed453078d65.png) Feral: <span style="color: orange">Medium</span>
 > 
-> ![guardian](https://user-images.githubusercontent.com/6531393/124419175-ddc83480-dd11-11eb-804c-25c8490e3aa7.png) Guardian: : <span style="color: orange">Medium</span>
+> ![guardian](https://user-images.githubusercontent.com/6531393/124419175-ddc83480-dd11-11eb-804c-25c8490e3aa7.png) Guardian: <span style="color: orange">Medium</span>
 > 
 > ### <span style="color: #3FC7EB">Mage</span>
-> ![arcane](https://user-images.githubusercontent.com/6531393/124419213-ee78aa80-dd11-11eb-91f7-061f38fa8e44.png) Arcane: : <span style="color: orange">Medium</span>
-> 
-> ![fire](https://user-images.githubusercontent.com/6531393/124419214-ee78aa80-dd11-11eb-97a2-0948701e21e1.png) Fire: : <span style="color: green">Low</span>
-> 
-> ![frost](https://user-images.githubusercontent.com/6531393/124419216-ee78aa80-dd11-11eb-8805-dd7909f6fd10.png) Frost: : <span style="color: orange">Medium</span>
-> 
+> ![arcane](https://user-images.githubusercontent.com/6531393/124419213-ee78aa80-dd11-11eb-91f7-061f38fa8e44.png) Arcane: <span style="color: orange">Medium</span>
+>
+> ![fire](https://user-images.githubusercontent.com/6531393/124419214-ee78aa80-dd11-11eb-97a2-0948701e21e1.png) Fire: <span style="color: green">Low</span>
+>
+> ![frost](https://user-images.githubusercontent.com/6531393/124419216-ee78aa80-dd11-11eb-8805-dd7909f6fd10.png) Frost: <span style="color: orange">Medium</span>
+>
 > ### <span style="color: #00FF98">Monk</span>
-> ![brewmaster](https://user-images.githubusercontent.com/6531393/124419267-ffc1b700-dd11-11eb-97de-30005e3ea029.png) Brewmaster: : <span style="color: orange">Medium</span>
-> 
+> ![brewmaster](https://user-images.githubusercontent.com/6531393/124419267-ffc1b700-dd11-11eb-97de-30005e3ea029.png) Brewmaster: <span style="color: orange">Medium</span>
+>
 > ### <span style="color: #FFFFFF">Priest</span>
-> ![discipline](https://user-images.githubusercontent.com/6531393/124419312-136d1d80-dd12-11eb-95f0-a9a46b84935d.png) Discipline: : <span style="color: green">Low</span>
-> 
+> ![discipline](https://user-images.githubusercontent.com/6531393/124419312-136d1d80-dd12-11eb-95f0-a9a46b84935d.png) Discipline: <span style="color: green">Low</span>
+>
 > ![shadow](https://user-images.githubusercontent.com/6531393/124419318-1700a480-dd12-11eb-8799-079c5f7fbcc8.png) Shadow: <span style="color: red">High</span>
-> 
+>
 > ### <span style="color: #0070DD">Shaman</span>
 > ![elemental](https://user-images.githubusercontent.com/6531393/124419424-48797000-dd12-11eb-88a1-e10ee071999c.png) Elemental: <span style="color: red">High</span>
-> 
+>
 > ### <span style="color: #8788EE">Warlock</span>
-> ![affliction](https://user-images.githubusercontent.com/6531393/124419435-4fa07e00-dd12-11eb-8243-55dcbace19bb.png) Affliction: : <span style="color: green">Low</span>
+> ![affliction](https://user-images.githubusercontent.com/6531393/124419435-4fa07e00-dd12-11eb-8243-55dcbace19bb.png) Affliction: <span style="color: green">Low</span>
 > 
-> ![demonology](https://user-images.githubusercontent.com/6531393/124419438-529b6e80-dd12-11eb-958a-ad9698b26284.png) Demonology: : <span style="color: orange">Medium</span>
+> ![demonology](https://user-images.githubusercontent.com/6531393/124419438-529b6e80-dd12-11eb-958a-ad9698b26284.png) Demonology: <span style="color: orange">Medium</span>
 > 
 > ![destruction](https://user-images.githubusercontent.com/6531393/124419443-56c78c00-dd12-11eb-90b7-fea78ef30780.png) Destruction: <span style="color: red">High</span>
 
