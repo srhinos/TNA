@@ -56,6 +56,9 @@
   section{
       margin-top: 0px;
   }
+  section #title{
+      margin: 0px;
+  }
 </style>
 
 <script src="http://code.jquery.com/jquery-1.4.2.min.js"></script>
