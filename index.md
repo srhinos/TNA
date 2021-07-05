@@ -52,7 +52,7 @@
 
 <script src="http://code.jquery.com/jquery-1.4.2.min.js"></script>
 <!-- <script> var x = document.getElementsByClassName("footer"); setTimeout(() => { x[0].remove(); }, 10); </script> -->
-<script> var x = document.getElementById("header"); setTimeout(() => { x.remove(); }, 10); </script>
-<script> var x = document.getElementsByClassName("credits left"); setTimeout(() => { x[0].remove(); }, 10); </script>
-<script> var x = document.getElementsByClassName("credits right"); setTimeout(() => { x[0].remove(); }, 10); </script>
+<script> var x = document.getElementById("header"); setTimeout(() => { x.remove(); }, 50); </script>
+<script> var x = document.getElementsByClassName("credits left"); setTimeout(() => { x[0].remove(); }, 50); </script>
+<script> var x = document.getElementsByClassName("credits right"); setTimeout(() => { x[0].remove(); }, 50); </script>
 
