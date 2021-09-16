@@ -35,9 +35,9 @@
 > ![elemental](https://user-images.githubusercontent.com/6531393/124419424-48797000-dd12-11eb-88a1-e10ee071999c.png) Elemental: <span style="color: red">High</span>
 >
 > ### <span style="color: #8788EE">Warlock</span>
-> ![affliction](https://user-images.githubusercontent.com/6531393/124419435-4fa07e00-dd12-11eb-8243-55dcbace19bb.png) Affliction: <span style="color: orange">Medium</span>
+> ![affliction](https://user-images.githubusercontent.com/6531393/124419435-4fa07e00-dd12-11eb-8243-55dcbace19bb.png) Affliction: <span style="color: red">High</span>
 > 
-> ![demonology](https://user-images.githubusercontent.com/6531393/124419438-529b6e80-dd12-11eb-958a-ad9698b26284.png) Demonology: <span style="color: orange">Medium</span>
+> ![demonology](https://user-images.githubusercontent.com/6531393/124419438-529b6e80-dd12-11eb-958a-ad9698b26284.png) Demonology: <span style="color: red">High</span>
 > 
 > ![destruction](https://user-images.githubusercontent.com/6531393/124419443-56c78c00-dd12-11eb-90b7-fea78ef30780.png) Destruction: <span style="color: red">High</span>
 
