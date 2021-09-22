@@ -5,6 +5,7 @@
 ![raiderio-1](https://user-images.githubusercontent.com/6531393/124417413-f1719c00-dd0d-11eb-9562-85c802728329.png) [Raider.IO](https://raider.io/tna)
 
 ![warcraftlogs](https://user-images.githubusercontent.com/6531393/124417760-b885f700-dd0e-11eb-9415-547ea5f4dc85.png) [WarcraftLogs](https://www.warcraftlogs.com/guild/id/582297)
+![tna_md](https://user-images.githubusercontent.com/6531393/134336984-f86838b5-4524-4505-a68c-618653eca1e3.png)
 
 ---
 
@@ -75,4 +76,5 @@
     document.getElementById("header").remove();
     document.getElementsByClassName("credits left")[0].remove();
     document.getElementsByClassName("credits right")[0].remove();
+    document.querySelector("#title > h1:nth-child(1)").innerHTML = '<img alt="main-logo" id="main-logo" src="https://user-images.githubusercontent.com/6531393/134336984-f86838b5-4524-4505-a68c-618653eca1e3.png" style="display: block;margin-left: auto;margin-right: auto;">';
 </script>
