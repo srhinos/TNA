@@ -75,5 +75,5 @@
     document.getElementById("header").remove();
     document.getElementsByClassName("credits left")[0].remove();
     document.getElementsByClassName("credits right")[0].remove();
-    document.querySelector("#title > h1:nth-child(1)").innerHTML = '<img alt="main-logo" id="main-logo" src="https://user-images.githubusercontent.com/6531393/134336984-f86838b5-4524-4505-a68c-618653eca1e3.png" style="display: block;margin-left: auto;margin-right: auto;">';
+    document.querySelector("#title > h1:nth-child(1)").innerHTML = '<img alt="main-logo" id="main-logo" style="display: block;margin-left: auto;margin-right: auto;width: 22%;" src="https://user-images.githubusercontent.com/6531393/134535800-7bbc384d-039d-4fa8-8e1c-48f3a26af0f2.png">';
 </script>
