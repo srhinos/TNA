@@ -1,2 +1,2 @@
-# TNA's Website
-Quick info for the guild on Sargeras Alliance
+# TNA Guild Website Repo
+https://tna.gg
