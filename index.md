@@ -1,24 +1,26 @@
 ![discord-1](https://user-images.githubusercontent.com/6531393/124417398-e9b1f780-dd0d-11eb-96c6-562c6afd9c32.png) [Discord](https://discord.gg/tna)
 
-![twitter(1)](https://user-images.githubusercontent.com/6531393/124417740-b1f77f80-dd0e-11eb-8fbe-32ad30a2b047.png) [Twitter](https://twitter.com/tna_guild)
-
 ![raiderio-1](https://user-images.githubusercontent.com/6531393/124417413-f1719c00-dd0d-11eb-9562-85c802728329.png) [Raider.IO](https://raider.io/tna)
 
 ![warcraftlogs](https://user-images.githubusercontent.com/6531393/124417760-b885f700-dd0e-11eb-9415-547ea5f4dc85.png) [WarcraftLogs](https://www.warcraftlogs.com/guild/id/582297)
 
+![twitter(1)](https://user-images.githubusercontent.com/6531393/124417740-b1f77f80-dd0e-11eb-8fbe-32ad30a2b047.png) [Twitter](https://twitter.com/tna_guild)
+
 ---
 
-## Our Current Recruitment Needs
-> ### <span style="color: #C41E3A">Death Knight</span>
+<h2 id="recruit-major" style="margin: 0;">Our Current Recruitment Needs:</h2>
+<h5 id="recruit-minor" style="margin-bottom: 15px;">To inquire about a position, reach out to an officer via Discord</h5>
+
+> <!--### <span style="color: #C41E3A">Death Knight</span>-->
 > <!--![frost](https://user-images.githubusercontent.com/6531393/124419082-b2454a00-dd11-11eb-8f35-da276367f23c.png) Frost: <span style="color: orange">Medium</span>-->
 > 
-> ![unholy](https://user-images.githubusercontent.com/6531393/124419090-b6716780-dd11-11eb-8104-3dc6ef8854b8.png) Unholy: <span style="color: green">Low</span>
+> <!--![unholy](https://user-images.githubusercontent.com/6531393/124419090-b6716780-dd11-11eb-8104-3dc6ef8854b8.png) Unholy: <span style="color: green">Low</span>-->
 > 
 > <!--### <span style="color: #A330C9">Demon Hunter</span>-->
 > <!--![veng](https://user-images.githubusercontent.com/6531393/124419947-65627300-dd13-11eb-9ae0-5cf387c70cbb.png) Vengeance: <span style="color: orange">Medium</span>-->
 >  
 > ### <span style="color: #FF7C0A">Druid</span>
-> ![balance](https://user-images.githubusercontent.com/6531393/124419149-d56ff980-dd11-11eb-8318-22798f2cd40d.png) Balance: <span style="color: orange">Medium</span>
+> ![balance](https://user-images.githubusercontent.com/6531393/124419149-d56ff980-dd11-11eb-8318-22798f2cd40d.png) Balance: <span style="color: red">High</span>
 > 
 > <!--![feral](https://user-images.githubusercontent.com/6531393/124419156-d9038080-dd11-11eb-8c14-4ed453078d65.png) Feral: <span style="color: orange">Medium</span>-->
 > 
@@ -51,11 +53,11 @@
 > ![resto](https://user-images.githubusercontent.com/6531393/134335707-03f75aac-9184-40a7-a673-7ad82a833caa.png) Restoration: <span style="color: red">High</span>
 >
 > ### <span style="color: #8788EE">Warlock</span>
-> ![affliction](https://user-images.githubusercontent.com/6531393/124419435-4fa07e00-dd12-11eb-8243-55dcbace19bb.png) Affliction: <span style="color: red">High</span>
+> ![affliction](https://user-images.githubusercontent.com/6531393/124419435-4fa07e00-dd12-11eb-8243-55dcbace19bb.png) Affliction: <span style="color: orange">Medium</span>
 > 
-> ![demonology](https://user-images.githubusercontent.com/6531393/124419438-529b6e80-dd12-11eb-958a-ad9698b26284.png) Demonology: <span style="color: red">High</span>
+> ![demonology](https://user-images.githubusercontent.com/6531393/124419438-529b6e80-dd12-11eb-958a-ad9698b26284.png) Demonology: <span style="color: orange">Medium</span>
 > 
-> ![destruction](https://user-images.githubusercontent.com/6531393/124419443-56c78c00-dd12-11eb-90b7-fea78ef30780.png) Destruction: <span style="color: red">High</span>
+> ![destruction](https://user-images.githubusercontent.com/6531393/124419443-56c78c00-dd12-11eb-90b7-fea78ef30780.png) Destruction: <span style="color: orange">Medium</span>
 
 <style type="text/css">
   blockquote {
@@ -75,5 +77,6 @@
     document.getElementById("header").remove();
     document.getElementsByClassName("credits left")[0].remove();
     document.getElementsByClassName("credits right")[0].remove();
-    document.querySelector("#title > h1:nth-child(1)").innerHTML = '<img alt="main-logo" id="main-logo" style="display: block;margin-left: auto;margin-right: auto;width: 22%;" src="https://user-images.githubusercontent.com/6531393/134535800-7bbc384d-039d-4fa8-8e1c-48f3a26af0f2.png">';
+    document.querySelector("#title > h1:nth-child(1)").innerHTML = '<img alt="main-logo" id="main-logo" src="https://user-images.githubusercontent.com/6531393/134336984-f86838b5-4524-4505-a68c-618653eca1e3.png" style="display: block;margin-left: auto;margin-right: auto;">';
+    
 </script>
