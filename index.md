@@ -9,7 +9,7 @@
 ---
 
 <h2 id="recruit-major" style="margin: 0;">Our Current Recruitment Needs:</h2>
-<h5 id="recruit-minor" style="margin-bottom: 15px;">To inquire about a position, reach out to an officer via Discord</h5>
+<h5 id="recruit-minor" style="margin-bottom: 15px;">To inquire about a position, reach out to an officer via <a href="https://discord.gg/tna">Discord</a></h5>
 
 > <!--### <span style="color: #C41E3A">Death Knight</span>-->
 > <!--![frost](https://user-images.githubusercontent.com/6531393/124419082-b2454a00-dd11-11eb-8f35-da276367f23c.png) Frost: <span style="color: orange">Medium</span>-->
